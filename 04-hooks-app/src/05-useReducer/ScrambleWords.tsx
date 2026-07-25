@@ -90,7 +90,9 @@ export const ScrambleWords = () => {
             Palabras desordenadas
           </h1>
           <p className="text-gray-600">
-            Desordena las letras para encontrar la palabra!
+            Desordena las letras para encontrar la palabra! 
+
+            <br/> <h3> Hugo Jovel  Web</h3>
           </p>
         </div>
 
