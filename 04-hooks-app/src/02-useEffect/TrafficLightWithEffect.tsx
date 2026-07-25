@@ -34,7 +34,7 @@ export const TrafficLightWithEffect = () => {
         setCountdown(5);
       } else if (light === "green") {
         setLight("yellow");
-        setCountdown(2);
+        setCountdown(5);
       } else if (light === "yellow") {
         setLight("red");
         setCountdown(5);
