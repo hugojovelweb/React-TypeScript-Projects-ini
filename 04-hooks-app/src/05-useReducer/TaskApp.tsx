@@ -57,7 +57,7 @@ export const TasksApp = () => {
             Lista de Tareas
           </h1>
           <p className="text-slate-600">
-            Mantén tus tareas organizadas y consigue hacerlas
+            Mantén tus tareas organizadas y consigue hacerlas            
           </p>
         </div>
 
@@ -120,6 +120,7 @@ export const TasksApp = () => {
                 <p className="text-slate-500 text-lg mb-2">No hay tareas</p>
                 <p className="text-slate-400 text-sm">
                   Añade una tarea arriba para empezar
+                   <br /> <h3> Hugo Jovel  Web</h3> 
                 </p>
               </div>
             ) : (
