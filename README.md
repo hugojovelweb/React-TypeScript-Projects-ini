@@ -2,7 +2,7 @@
 
 -React + TypeScript + Vite + Taildwind CSS
 
-## 🚀 Proyectos incluidos
+## 🚀 Proyectos incluidos:
 - 02-first-step: Fundamentos de React + TS
 - 03-gifs-app: Aplicación de Gifs con hooks personalizados
 - 04-hooks-app: Profundizando en hooks de React
