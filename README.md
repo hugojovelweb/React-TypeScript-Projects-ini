@@ -10,7 +10,7 @@
 ## 📚 Documentación de aprendizaje
 Este repositorio documenta mi aprendizaje de React con TypeScript
 
-## 🛠️ Tecnologías
+## 🛠️ Tecnologías:
 - React 18+
 - TypeScript
 - Vite
