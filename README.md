@@ -7,7 +7,7 @@
 - 03-gifs-app: Aplicación de Gifs con hooks personalizados
 - 04-hooks-app: Profundizando en hooks de React
 
-## 📚 Documentación de aprendizaje
+## 📚 Documentación de aprendizaje:
 Este repositorio documenta mi aprendizaje de React con TypeScript
 
 ## 🛠️ Tecnologías:
